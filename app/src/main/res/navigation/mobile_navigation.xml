@@ -7,25 +7,25 @@
 
     <fragment
         android:id="@+id/nav_transform"
-        android:name="kr.co.dothome.railuproject.ui.transform.TransformFragment"
+        android:name="kr.co.dothome.appdev24.ui.transform.TransformFragment"
         android:label="@string/menu_transform"
         tools:layout="@layout/fragment_transform" />
 
     <fragment
         android:id="@+id/nav_reflow"
-        android:name="kr.co.dothome.railuproject.ui.reflow.ReflowFragment"
+        android:name="kr.co.dothome.appdev24.ui.reflow.ReflowFragment"
         android:label="@string/menu_reflow"
         tools:layout="@layout/fragment_reflow" />
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:name="kr.co.dothome.railuproject.ui.slideshow.SlideshowFragment"
+        android:name="kr.co.dothome.appdev24.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/nav_settings"
-        android:name="kr.co.dothome.railuproject.ui.settings.SettingsFragment"
+        android:name="kr.co.dothome.appdev24.ui.settings.SettingsFragment"
         android:label="@string/menu_settings"
         tools:layout="@layout/fragment_settings" />
 </navigation>

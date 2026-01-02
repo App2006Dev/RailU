@@ -1,13 +1,13 @@
-package kr.co.dothome.railuproject.ui.reflow
+package kr.co.dothome.appdev24.ui.settings
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class ReflowViewModel : ViewModel() {
+class SettingsViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
-        value = "This is reflow Fragment"
+        value = "This is settings Fragment"
     }
     val text: LiveData<String> = _text
 }

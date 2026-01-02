@@ -1,4 +1,4 @@
-package kr.co.dothome.railuproject
+package kr.co.dothome.appdev24
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

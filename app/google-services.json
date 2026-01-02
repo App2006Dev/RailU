@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969866782048",
+    "project_id": "railu-app2006dev",
+    "storage_bucket": "railu-app2006dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969866782048:android:bd76b37314191a37c66a05",
+        "android_client_info": {
+          "package_name": "kr.co.dothome.appdev24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtyE7zwu8G-Zc_MzY5TLJctEAEH1nnv1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

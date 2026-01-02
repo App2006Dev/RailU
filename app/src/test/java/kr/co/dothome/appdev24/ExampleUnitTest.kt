@@ -1,4 +1,4 @@
-package kr.co.dothome.railuproject
+package kr.co.dothome.appdev24
 
 import org.junit.Test
 

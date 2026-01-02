@@ -1,4 +1,4 @@
-package kr.co.dothome.railuproject.ui.transform
+package kr.co.dothome.appdev24.ui.transform
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -12,9 +12,9 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import kr.co.dothome.railuproject.R
-import kr.co.dothome.railuproject.databinding.FragmentTransformBinding
-import kr.co.dothome.railuproject.databinding.ItemTransformBinding
+import kr.co.dothome.appdev24.R
+import kr.co.dothome.appdev24.databinding.FragmentTransformBinding
+import kr.co.dothome.appdev24.databinding.ItemTransformBinding
 
 /**
  * Fragment that demonstrates a responsive layout pattern where the format of the content

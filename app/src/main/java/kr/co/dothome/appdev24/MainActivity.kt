@@ -1,4 +1,4 @@
-package kr.co.dothome.railuproject
+package kr.co.dothome.appdev24
 
 import android.os.Bundle
 import android.view.Menu
@@ -12,7 +12,7 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import androidx.appcompat.app.AppCompatActivity
-import kr.co.dothome.railuproject.databinding.ActivityMainBinding
+import kr.co.dothome.appdev24.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

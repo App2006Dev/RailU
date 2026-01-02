@@ -1,13 +1,13 @@
-package kr.co.dothome.railuproject.ui.slideshow
+package kr.co.dothome.appdev24.ui.reflow
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class SlideshowViewModel : ViewModel() {
+class ReflowViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
-        value = "This is slideshow Fragment"
+        value = "This is reflow Fragment"
     }
     val text: LiveData<String> = _text
 }
